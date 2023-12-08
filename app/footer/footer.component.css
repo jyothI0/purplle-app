@@ -1,0 +1,47 @@
+.container{
+    margin-top: 30px;
+}
+.container h3{
+    color: gray;
+}
+.container p{
+    color: gray;
+    font-size: 12px;
+    margin-top: -2px;
+}
+#p1{
+    font-size: 30px;
+    justify-content: center;
+    align-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#cards{
+    font-size: 15px;
+    justify-content: center;
+    align-content: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.payment{
+    margin-top: 20px;
+ margin-left: 70px;
+ margin-right: 50px;
+ display: flex;
+}
+.payment img{
+    align-items: center;
+}
+button
+{
+    border-radius: 10px;
+}
+hr{
+    margin-bottom: 10px;
+}
+.copy
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 12px;
+}

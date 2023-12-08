@@ -1,0 +1,57 @@
+.featured p{
+    margin-top: 40px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.view h5,svg{
+    color: rgb(138, 73, 142);
+    
+}
+.view{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+.view svg{
+  margin-top: 0px;
+  
+}
+.view h5{
+    font-size: 15px;
+}
+.view:hover{
+ color: rgb(248, 8, 168);
+}
+.price{
+    display: flex;
+    margin-top: -10px;
+}
+.price p{
+    margin-top: 8px;
+}
+.price p del{
+    color:gray;
+}
+.price p{
+    color: rgb(3, 89, 3);
+}
+.card-text{
+    font-size: 15px;
+    color: gray;
+}
+
+.row{
+    margin-bottom: 50px;
+}
+.container{
+    margin-top: 30px;
+    
+}
+.id{
+    display: flex;
+}
+
+
+  

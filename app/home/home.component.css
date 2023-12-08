@@ -1,0 +1,86 @@
+
+
+.download button{
+    font-family: AqleemaNewM;
+    background-color: #f8076f;
+    margin-right: 20px;
+    border-radius: 4px rgb(231, 16, 138);
+    color:white;
+    padding:10px;
+    padding-top: 15px;
+
+}
+.download h5{
+    font: 20px;
+}
+.star{
+    color:rgb(245, 221, 4);
+    font-size: 25px;
+    border-color: black;
+    
+}
+.heading{
+    margin-left:15px;
+    margin-right: 15px;
+    margin-top: 6px;
+    font-size: 15px;
+}
+
+.header{
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color:#f9d3e8;
+    }
+
+.appfirst{
+    border: 2px dashed #ff147b;
+    padding-left: 6px;
+    padding-right: 6px;
+    padding-top: 10px;
+    background-color: white;
+    margin-right:500px;
+    font-size: 15px;
+   
+}
+.img1{
+    margin-left: 44px;
+}
+
+@media(max-width:768px){
+    .header{
+        display: none;
+    }
+} 
+.close{
+    color:black;
+    size: 5px;
+    
+}
+.header2{
+    display:flex;
+    margin-top: 4px;
+
+    
+}
+.mobile{
+     margin-left: 900px;
+     display: flex;
+}
+.tracks{
+    display: flex;
+    margin-top: 6px;
+    padding-left: 4px;
+    
+}
+hr{
+    margin-top:4px;
+    margin-bottom: 2px;
+}
+.cover{
+    padding-top: 50px;
+   
+}
+.tracks p{
+    font-size: 15px;
+}
